@@ -1,7 +1,7 @@
-# cad_fly_fishing_tying
-CAD designs for fly fishing &amp; fly tying tools
+# Fly Fishing & Fly Tying CAD Design
 
 
+CAD designs for fly fishing and fly tying.
 
 
 
